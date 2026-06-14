@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Floating Panel</string>
+    <string name="accessibility_service_description">Enables high-precision tap emulation triggerable directly from your floating automation panel.</string>
+</resources>

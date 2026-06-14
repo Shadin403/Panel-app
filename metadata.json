@@ -1,0 +1,6 @@
+{
+  "name": "Floating Panel",
+  "description": "A sophisticated overlay panel with neon styling, interactive draggable controllers, and simulated automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
